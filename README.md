@@ -32,8 +32,12 @@ This dataset describes mushrooms in terms of their physical characteristics. The
 
 **Homepage:**
 
+![Map](https://github.com/das-ankur/Mushroom-Classification/blob/6007a7698c3374dca293df2576742bbe081a61e5/sample_run/homepage.jpg)
 
 **Traiing:**
 
+![Map](https://github.com/das-ankur/Mushroom-Classification/blob/6007a7698c3374dca293df2576742bbe081a61e5/sample_run/train.jpg)
 
-**Testing:**
+**Prediction:**
+
+![Map](https://github.com/das-ankur/Mushroom-Classification/blob/6007a7698c3374dca293df2576742bbe081a61e5/sample_run/pred.jpg)
